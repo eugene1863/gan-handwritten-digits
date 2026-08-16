@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+# MNIST dataset (auto-downloaded by train.py)
+data/
+
+# Trained model weights and training artifacts
+checkpoints/
+samples/
+
+# Ad-hoc generated test images
+generated_*.png
+
+.venv/
+venv/
